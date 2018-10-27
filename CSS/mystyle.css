@@ -1,0 +1,23 @@
+html * {
+    font-family: Arial, Helvetica, sans-serif;
+    color:  #011F51;
+}
+
+
+.myimages {
+    padding: 50px;
+    margin: 10px;
+    width: 35%;
+}
+
+a:hover {
+    color: #ee293d;
+}
+
+.my-section * {
+    color: #011F51;
+}
+
+.codebox {
+    font-family: Arial, Helvetica, sans-serif;
+}
